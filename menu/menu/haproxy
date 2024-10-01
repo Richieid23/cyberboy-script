@@ -58,7 +58,7 @@ clear
 
 
 
-REPO="https://raw.githubusercontent.com/Richieid23/cyberboy-script/main/config/"
+REPO="https://raw.githubusercontent.com/Richieid23/cyberboy-script/refs/heads/main/config/"
 # fixhap fix Haproxy
 clear
 echo -e "${BlueCyan} ------------------------- ${Xark} "

@@ -30,7 +30,7 @@ fun_bar() {
     tput cnorm
 }
 res1() {
-    wget https://raw.githubusercontent.com/Richieid23/cyberboy-script/main/menu/menu.zip
+    wget https://raw.githubusercontent.com/Richieid23/cyberboy-script/refs/heads/main/menu/menu.zip
     unzip menu.zip
     chmod +x menu/*
     mv menu/* /usr/local/sbin
